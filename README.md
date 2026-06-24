@@ -75,7 +75,3 @@ MD Arman
 Computer Science Engineering Student 
 
 GitHub: https://github.com/git-user715
-
-Computer Science Engineering Student
-
-GitHub: https://github.com/git-user715
