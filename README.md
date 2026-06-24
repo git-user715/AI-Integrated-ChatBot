@@ -52,7 +52,18 @@ streamlit run app.py
 
 ## 📸 Demo
 
-(Add screenshots of your chatbot here after deployment.)
+
+### Home Screen
+![Home](screenshots/home.png)
+
+### Chat Interface
+![Chat](screenshots/chat.png)
+
+### Mood Check-in
+![Mood](screenshots/mood.png)
+
+### Homework Assistance
+![Homework](screenshots/homework.png)
 
 ---
 
