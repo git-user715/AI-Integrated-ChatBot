@@ -28,6 +28,8 @@ An AI-powered Student Study Assistant built with Python, Streamlit, and OpenRout
 - Streamlit
 - OpenRouter API
 - OpenAI Python SDK
+- TOML Secrets
+- Git & GitHub
 
 ---
 
@@ -38,13 +40,19 @@ AI-Integrated-ChatBot/
 │── requirements.txt
 │── .gitignore
 │── README.md
+│── screenshots/
+    │── home.png
+    │── chat.png
+    │── mood.png
+    │── homework.png
+
 ---
 
 ## ⚙️ Installation
 
 Clone the repository:
 
-git clone https://github.com/YOUR_USERNAME/AI-Integrated-ChatBot.git
+git clone https://github.com/git-user715/AI-Integrated-ChatBot.git
 Install dependencies:
 
 pip install -r requirements.txt
@@ -54,6 +62,19 @@ OPENROUTER_API_KEY="your_api_key_here"
 Run the application:
 
 streamlit run app.py
+
+---
+
+## 🔐 Environment Variables
+
+Create
+
+.streamlit/secrets.toml
+
+and add:
+
+OPENROUTER_API_KEY="YOUR_API_KEY"
+
 ---
 
 ## 📸 Demo
@@ -75,13 +96,13 @@ streamlit run app.py
 
 ## 📌 Future Improvements
 
-- Resume Analyzer
-- Career Recommendation System
-- Skill Gap Analysis
-- AI Learning Roadmap
-- Interview Simulator
-- Voice Interaction
-- Multi-language Support
+- Voice Assistant
+- PDF Notes Upload
+- Quiz Generator
+- Flashcard Generator
+- Study Planner
+- MUlti-language Support
+- Teacher Dashboard
 
 ---
 
@@ -94,16 +115,3 @@ Computer Science Engineering Student
 GitHub: https://github.com/git-user715
 
 
-## 📸 Screenshots
-
-### 🏠 Home Page
-![Home Page](screenshots/home.png)
-
-### 😊 Mood Check-in
-![Mood Check-in](screenshots/mood.png)
-
-### 💬 Chat Interface
-![Chat Interface](screenshots/chat.png)
-
-### 📚 Homework Assistance
-![Homework Assistance](screenshots/homework.png)
