@@ -92,3 +92,18 @@ MD Arman
 Computer Science Engineering Student 
  
 GitHub: https://github.com/git-user715
+
+
+## 📸 Screenshots
+
+### 🏠 Home Page
+![Home Page](screenshots/home.png)
+
+### 😊 Mood Check-in
+![Mood Check-in](screenshots/mood.png)
+
+### 💬 Chat Interface
+![Chat Interface](screenshots/chat.png)
+
+### 📚 Homework Assistance
+![Homework Assistance](screenshots/homework.png)
