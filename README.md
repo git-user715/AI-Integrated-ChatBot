@@ -3,7 +3,13 @@
 An AI-powered Student Study Assistant built with Python, Streamlit, and OpenRouter. The chatbot provides personalized learning support, homework assistance, concept explanations, and mood-aware responses to help students learn more effectively.
 
 ---
- 
+
+ ## 🚀 Live Demo
+
+🔗 https://student-ai-chatbot-gituser715.streamlit.app
+
+---
+
 ## 🚀 Features
 
 - 📚 Homework Assistance
